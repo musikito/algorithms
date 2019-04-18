@@ -1,3 +1,7 @@
+/**
+* function to convert decimals to their conuterpart decimal
+* it takes a string, CAPITALS I,V,X,C,M,D,L as roman numerals
+*/
 function fromRoman(str) {  
   var result = 0;
   // the result is now a number, not a string
